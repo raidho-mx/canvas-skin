@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.chat-modal {
+  width: 456px;
+  padding: 3px;
+  position: relative;
+  display: inline-block; }
+  .chat-modal ul.inline {
+    list-style-type: circle !important; }
+  .chat-modal ul.inline li {
+    display: block;
+    margin-bottom: 10px; }
+  .chat-modal ul.inline li p {
+    display: inline-block; }
+  .chat-modal ul.inline li:before {
+    content: "●";
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    margin-right: 8px; }
+  .chat-modal .submit-input {
+    background-color: white; }

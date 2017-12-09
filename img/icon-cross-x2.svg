@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pricing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="new-user-no-pay" transform="translate(-1071.000000, -136.000000)">
+            <g id="Group-6" transform="translate(537.000000, 128.000000)">
+                <g id="Group-7" transform="translate(534.000000, 8.000000)">
+                    <g id="Group-3-Copy" fill="#E95454">
+                        <rect id="Rectangle-9-Copy-12" x="0" y="0" width="32" height="32" rx="16"></rect>
+                    </g>
+                    <g id="Group" transform="translate(8.000000, 8.000000)" fill="#FFFFFF">
+                        <path d="M8,5.48584256 L3.0348565,0.520699056 C2.34059109,-0.173566352 1.21496446,-0.173566352 0.520699056,0.520699056 C-0.173566352,1.21496446 -0.173566352,2.34059109 0.520699056,3.0348565 L5.48584256,8 L0.520699056,12.9651435 C-0.173566352,13.6594089 -0.173566352,14.7850355 0.520699056,15.4793009 C1.21496446,16.1735664 2.34059109,16.1735664 3.0348565,15.4793009 L8,10.5141574 L12.9651435,15.4793009 C13.6594089,16.1735664 14.7850355,16.1735664 15.4793009,15.4793009 C16.1735664,14.7850355 16.1735664,13.6594089 15.4793009,12.9651435 L10.5141574,8 L15.4793009,3.0348565 C16.1735664,2.34059109 16.1735664,1.21496446 15.4793009,0.520699056 C14.7850355,-0.173566352 13.6594089,-0.173566352 12.9651435,0.520699056 L8,5.48584256 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

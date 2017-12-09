@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="21px" viewBox="0 0 37 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Week dropdown Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu-Top" transform="translate(-909.000000, -19.000000)" fill="#FFFFFF">
+            <g id="Group-14">
+                <g id="Week-dropdown-Copy-2" transform="translate(909.000000, 12.000000)">
+                    <path d="M9.74313575,18.3799508 C6.77246155,18.3799508 4.36458383,15.9718335 4.36458383,13.0013988 C4.36458383,10.0309642 6.77246155,7.62284692 9.74313575,7.62284692 C12.7135704,7.62284692 15.1216877,10.0309642 15.1216877,13.0013988 C15.1216877,15.9718335 12.7135704,18.3799508 9.74313575,18.3799508 M18.9860319,27.6228469 L0.5,27.6228469 C0.5,22.5181462 4.63819541,18.3799508 9.74313575,18.3799508 C14.8478365,18.3799508 18.9860319,22.5181462 18.9860319,27.6228469" id="Fill-1"></path>
+                    <text id="+" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="24" font-weight="normal">
+                        <tspan x="23.8786982" y="23">+</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
