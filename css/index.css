@@ -5118,7 +5118,7 @@ ul.color-picker-list {
   padding-left: 40px; }
 .canvas-progress-assistant.canvas-progress .to-do:before {
   background: #FFFFFF;
-  border: 2px solid #EC0000;
+  border: 2px solid #11C26F;
   height: 16px;
   width: 16px;
   left: 0; }
@@ -5126,12 +5126,12 @@ ul.color-picker-list {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #EC0000;
+  background: #11C26F;
   height: 16px;
   width: 16px; }
 .canvas-progress-assistant.canvas-progress .to-do:after {
   content: "";
-  background: #EC0000;
+  background: #11C26F;
   position: absolute;
   height: 100%;
   width: 2px;
