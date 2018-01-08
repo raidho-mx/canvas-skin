@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="36px" viewBox="0 0 47 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L29,0 C36.7319865,-1.42034288e-15 43,6.2680135 43,14 L43,14 C43,21.7319865 36.7319865,28 29,28 L0,28 L0,0 Z" id="path-1"></path>
+        <filter x="-16.3%" y="-17.9%" width="132.6%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.129981884 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="evaluacion.ronda-1-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1153.000000, -175.000000)">
+        <g id="Group" transform="translate(1157.000000, 177.000000)">
+            <g id="Rectangle-2-Copy" transform="translate(21.500000, 14.000000) scale(-1, 1) translate(-21.500000, -14.000000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#EC0000" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M21.2141682,22.3520462 L21.2141682,4.67375594 C21.2141682,3.86580692 21.6245739,3.21083482 22.1308349,3.21083482 C22.6370959,3.21083482 23.0475016,3.86580692 23.0475016,4.67375594 L23.0475016,22.2609003 L27.8317936,17.4766083 C28.1861582,17.1222437 28.7606968,17.1222437 29.1150614,17.4766083 C29.4694261,17.8309729 29.4694261,18.4055115 29.1150614,18.7598762 L22.7632096,25.111728 C22.5881132,25.2868244 22.3592617,25.3754033 22.1297774,25.3774647 C21.8720772,25.399668 21.6067028,25.3121641 21.4094916,25.1149529 L15.0550471,18.7605084 C14.7005379,18.4059992 14.7005379,17.8312261 15.0550471,17.4767168 C15.4095564,17.1222075 15.9843295,17.1222075 16.3388388,17.4767168 L21.2141682,22.3520462 Z" id="Combined-Shape-Copy-9" stroke="#FFFFFF" fill="#FFFFFF" stroke-linecap="round" transform="translate(22.085000, 14.295835) rotate(90.000000) translate(-22.085000, -14.295835) "></path>
+        </g>
+    </g>
+</svg>

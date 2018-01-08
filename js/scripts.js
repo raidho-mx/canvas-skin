@@ -8,6 +8,7 @@ $(".tabs-menu a").click(function(event) {
 	$(tab).fadeIn();
 });
 
+
 // FIX FOOTER TO BOTTOM: ADD PADDING ON .MAIN-CONTENT
 var footerHeight = $('footer').outerHeight();
 $('.main-content').css({'padding-bottom' : footerHeight});
@@ -16,10 +17,6 @@ $(window).resize(function() {
 	$('.main-content').css({'padding-bottom' : footerHeight});
 });
 
-// TAGS
-$(function() {
-	$('.tags_1').tagsInput({width:'auto'});
-});
 
 // ACCORDION EFFECT: TOGGLE TEXT
 function toggleItem(elem) {
@@ -38,3 +35,37 @@ function toggleItem(elem) {
 	}
 }
 toggleItem(document.querySelectorAll('.toggle-txt'));
+
+
+// EVALUATION MENU
+$(function(){
+	var button = $('#TriggerSidebar').offset().top;
+	$(window).scroll(function(event) {
+		event.preventDefault();
+		var top = $(this).scrollTop();
+
+		if ( top > button ) {
+			$('#TriggerSidebar').addClass('fix');
+		}
+		if ( top < button ) {
+			$('#TriggerSidebar').removeClass('fix');
+		}
+	});
+});
+
+
+// SIDEBAR MENU
+$("#TriggerSidebar").click(function() {
+	$('.sidebar-menu').animate({'right':0},500);
+	$('.white-mask').addClass( 'active' );
+});
+
+$(".white-mask").click(function() {
+	$('.sidebar-menu').animate({'right':-512},500);
+	$(this).removeClass( 'active' );
+});
+
+$("#HideSidebar").click(function() {
+	$('.sidebar-menu').animate({'right':-512},500);
+	$('.white-mask').removeClass( 'active' );
+});
