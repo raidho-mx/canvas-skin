@@ -2835,6 +2835,46 @@ section {
   top: 5px;
   display: inline-block; }
 
+.kbase-tooltip {
+  top: 30px;
+  position: relative; }
+
+.kbase-tooltip .tooltip {
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  top: 3px;
+  right: 44px;
+  background: #FFB500;
+  padding: 1px 11px;
+  z-index: 10;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  color: #FFFFFF;
+  width: 104px; }
+  .kbase-tooltip .tooltip:before {
+    content: " ";
+    position: absolute;
+    top: 6px;
+    right: -2px;
+    -moz-transform: rotate(135deg);
+    -ms-transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    transform: rotate(135deg);
+    width: 10px;
+    z-index: 0;
+    min-height: 10px;
+    background: #FFB500; }
+
+.kbase-tooltip:hover .tooltip {
+  opacity: 1;
+  visibility: visible; }
+
 .evaluation-progress-bar {
   background: rgba(215, 26, 33, 0.6);
   height: 60px;
@@ -2954,6 +2994,9 @@ section {
 .gray-tooltip:hover,
 .gray-tooltip.active {
   opacity: 1; }
+
+.med-rounded-btn.bg-dark-purple {
+  background: #EC0000; }
 
 /* ALERTS, DROPDOWN MENUS */
 .white-tooltip-box {
