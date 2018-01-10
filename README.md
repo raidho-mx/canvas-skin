@@ -79,7 +79,7 @@ http://testbed.raidho.mx/santander/admin-jury-evaluation-list.html
 - - - - - - - -
 
 
-## Canvas Grid
+### Canvas Grid
 
 BUSINESS MODEL CANVAS http://testbed.raidho.mx/santander/canvas-business-model.html
 
@@ -98,7 +98,7 @@ SCALING UP PEOPLE CANVAS http://testbed.raidho.mx/santander/scaling-up-people.ht
 SCALING UP PROCESS CANVAS http://testbed.raidho.mx/santander/scaling-up-process.html
 
 
-## Progress bar examples
+### Progress bar examples
 
 DESIRABILITY http://testbed.raidho.mx/santander/canvas-business-model.html
 
@@ -113,24 +113,24 @@ PROBLEM SOLUTION FIT http://testbed.raidho.mx/santander/bmc-problem-solution-fit
 BUSINESS MODEL FIT http://testbed.raidho.mx/santander/bmc-business-model-fit.html
 
 
-## Modals
+### Modals
 
 MODALS http://testbed.raidho.mx/santander/pop-ups.html
 
 
-## Accordion
+### Accordion
 
 http://testbed.raidho.mx/santander/accordion-nav.html
 
 
-## UNGROUPED YET
+### UNGROUPED YET
 
 PROJECT LIST VIEW http://testbed.raidho.mx/santander/list-project-view.html
 
 OVERVIEW BCM TO EXO http://testbed.raidho.mx/santander/bmc-exo.html
 
 
-## BILLING
+### BILLING
 
 CHOOSE A PLAN	http://testbed.raidho.mx/santander/account-plan.html
 
@@ -155,7 +155,7 @@ BILLING PROCESSING http://testbed.raidho.mx/santander/billing-processing.html
 BILLING APPROVED http://testbed.raidho.mx/santander/billing-approved.html
 
 
-## ACCOUNT
+### ACCOUNT
 
 PROJECT LIST VIEW http://testbed.raidho.mx/santander/list-project-view.html
 
@@ -186,12 +186,12 @@ POP UPS ADDED FOR BILLING http://testbed.raidho.mx/santander/pop-ups.html
 ACCOUNT SUMMARY  http://testbed.raidho.mx/santander/account-summary.html
 
 
-## CANVAS QUESTIONARY
+### CANVAS QUESTIONARY
 
 http://testbed.raidho.mx/santander/questionary.html
 
 
-## PROJECT PROFILE
+### PROJECT PROFILE
 
 http://testbed.raidho.mx/santander/project-profile-edit.html
 
@@ -200,7 +200,7 @@ http://testbed.raidho.mx/santander/project-profile-full.html
 http://testbed.raidho.mx/santander/project-profile.html
 
 
-## TRL
+### TRL
 
 http://testbed.raidho.mx/santander/trl1.html
 
@@ -215,12 +215,12 @@ http://testbed.raidho.mx/santander/trl5.html
 http://testbed.raidho.mx/santander/trl6.html
 
 
-## SCALING UP OVERVIEW
+### SCALING UP OVERVIEW
 
 http://testbed.raidho.mx/santander/scaling-up-overview.html
 
 
-## INCUBATION
+### INCUBATION
 
 http://testbed.raidho.mx/santander/incubation-stages.html
 
