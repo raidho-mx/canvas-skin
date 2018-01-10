@@ -75,6 +75,13 @@ http://testbed.raidho.mx/santander/admin-jury-list.html
 
 http://testbed.raidho.mx/santander/admin-jury-evaluation-list.html
 
+#### ADMIN EVALUATION
+
+http://testbed.raidho.mx/santander/admin-evaluation-round1.html
+
+http://testbed.raidho.mx/santander/admin-evaluation-round2.html
+
+http://testbed.raidho.mx/santander/admin-evaluation-round3.html
 
 - - - - - - - -
 

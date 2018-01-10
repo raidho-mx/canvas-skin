@@ -2909,6 +2909,12 @@ section {
   top: 50px;
   z-index: 2; }
 
+.icon-left-arrow {
+  background-image: url("../img/icon-left-arrow.svg");
+  background-position: 13px;
+  background-repeat: no-repeat;
+  padding-left: 40px; }
+
 .btn-download img {
   position: absolute; }
 .btn-download p {
