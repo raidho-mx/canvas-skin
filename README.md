@@ -198,15 +198,6 @@ ACCOUNT SUMMARY  http://testbed.raidho.mx/santander/account-summary.html
 http://testbed.raidho.mx/santander/questionary.html
 
 
-### PROJECT PROFILE
-
-http://testbed.raidho.mx/santander/project-profile-edit.html
-
-http://testbed.raidho.mx/santander/project-profile-full.html
-
-http://testbed.raidho.mx/santander/project-profile.html
-
-
 ### TRL
 
 http://testbed.raidho.mx/santander/trl1.html
