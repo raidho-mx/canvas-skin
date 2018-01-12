@@ -83,6 +83,11 @@ http://testbed.raidho.mx/santander/admin-evaluation-round2.html
 
 http://testbed.raidho.mx/santander/admin-evaluation-round3.html
 
+
+### POP UP
+
+CUSTOMIZED MODALS http://testbed.raidho.mx/santander/pop-ups.html#invite-jury
+
 - - - - - - - -
 
 
@@ -119,10 +124,6 @@ PROBLEM SOLUTION FIT http://testbed.raidho.mx/santander/bmc-problem-solution-fit
 
 BUSINESS MODEL FIT http://testbed.raidho.mx/santander/bmc-business-model-fit.html
 
-
-### Modals
-
-MODALS http://testbed.raidho.mx/santander/pop-ups.html
 
 
 ### Accordion
