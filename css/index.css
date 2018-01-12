@@ -4199,6 +4199,9 @@ footer, .full-menu-modal .top-content {
   .red-scroll::-webkit-scrollbar-thumb:window-inactive {
     background: rgba(236, 0, 0, 0.27); }
 
+.has-dropdown-menu.bg-dark-purple {
+  background: #EC0000; }
+
 .has-dropdown-menu {
   position: relative;
   float: left;
