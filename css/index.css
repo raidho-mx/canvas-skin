@@ -1351,6 +1351,9 @@ section {
 .plr24 {
   padding: 0 1.5em; }
 
+.p5 {
+  padding: 5px; }
+
 .m24 {
   margin: 1.5em; }
 
@@ -3816,18 +3819,18 @@ footer, .full-menu-modal .top-content {
     width: 50px; }
   .profile-thumb .txt {
     vertical-align: top;
-    color: #29244E;
     display: inline-block; }
   .profile-thumb .txt-middle {
     margin-top: 10px;
     vertical-align: top;
-    color: #29244E;
     display: inline-block; }
   .profile-thumb .icon-delete {
     width: 20px;
     position: absolute;
     right: 10px;
-    top: 5px; }
+    top: 6px; }
+    .profile-thumb .icon-delete img {
+      width: 13px; }
 
 .profile-details-card {
   display: inline-block;
@@ -4875,7 +4878,6 @@ ul.color-picker-list {
   background-size: initial;
   background-repeat: no-repeat;
   background-position: top left;
-  color: #29244E;
   -moz-box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 0 0 15px 0px rgba(0, 0, 0, 0.2); }
@@ -4906,11 +4908,9 @@ ul.color-picker-list {
     margin-bottom: 30px; }
   .add-collaborator-modal .input-x1 {
     font-size: 14px;
-    color: #29244E;
     padding: 13px 11px !important; }
 
 .add-new-cohort-modal {
-  color: #29244E;
   background: #FFFFFF;
   padding: 35px 45px;
   position: relative;
